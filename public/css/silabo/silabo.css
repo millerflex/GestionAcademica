@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+.header {
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Alinear verticalmente */
+    border-bottom: 2px solid #000;
+    padding: 10px 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/* Ajuste del texto del encabezado */
+.header h1, .header h2 {
+    margin: 0; /* Eliminar márgenes */
+    text-align: center; /* Centrar texto */
+}
+
+.header h1 {
+    font-size: 24px; /* Tamaño del título */
+}
+
+.header h2 {
+    font-size: 18px; /* Tamaño del subtítulo */
+    font-weight: normal; /* Normalizar el peso de la fuente */
+}
+
+/* Ajuste del contenido principal para que no se solape con el encabezado */
+.content {
+    margin-top: 150px; /* Ajustar según la altura del encabezado */
+}

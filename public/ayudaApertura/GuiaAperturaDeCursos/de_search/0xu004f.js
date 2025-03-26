@@ -1,0 +1,31 @@
+DR_EXPLAIN = DR_EXPLAIN || {};
+DR_EXPLAIN.searchIndex = DR_EXPLAIN.searchIndex || {};
+DR_EXPLAIN.searchIndex["\u004f"] = [
+	{ "s": "O", "p": [18, 16, 14, 10, 9, 5, 21, 17, 12, 11, 4, 8, 22, 19, 15, 20, 7, 6, 2] },
+	{ "s": "OBTENER", "p": [21] },
+	{ "s": "OBTENERLAS", "p": [21] },
+	{ "s": "OFERTA", "p": [16] },
+	{ "s": "OFICIAL", "p": [22, 5] },
+	{ "s": "OFICIALMENTE", "p": [18, 16] },
+	{ "s": "OFICINA", "p": [22] },
+	{ "s": "OFRECE", "p": [21, 9] },
+	{ "s": "OFRECEN", "p": [19] },
+	{ "s": "OLVIDÓ", "p": [19] },
+	{ "s": "OPCIONES", "p": [11, 10] },
+	{ "s": "OPCIÓN", "p": [19, 18, 16, 15, 11] },
+	{ "s": "OPERACIONES", "p": [9, 16, 15, 10] },
+	{ "s": "OPERACIÓN", "p": [9] },
+	{ "s": "OPERATIVO", "p": [8, 5, 4] },
+	{ "s": "OPERATIVOS", "p": [12] },
+	{ "s": "OPTAR", "p": [16, 15] },
+	{ "s": "OPTIMIZACIÓN", "p": [17] },
+	{ "s": "OPTIMIZADA", "p": [18] },
+	{ "s": "OPTIMIZANDO", "p": [12] },
+	{ "s": "OPTIMIZAR", "p": [17, 5] },
+	{ "s": "ORGANICE", "p": [17] },
+	{ "s": "ORGANIZACIÓN", "p": [12] },
+	{ "s": "ORGANIZADO", "p": [9] },
+	{ "s": "ORGANIZADOS", "p": [18] },
+	{ "s": "OTRAS", "p": [21] },
+	{ "s": "OTROS", "p": [13] }
+];

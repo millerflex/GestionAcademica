@@ -1,0 +1,31 @@
+DR_EXPLAIN = DR_EXPLAIN || {};
+DR_EXPLAIN.searchIndex = DR_EXPLAIN.searchIndex || {};
+DR_EXPLAIN.searchIndex["\u004c"] = [
+	{ "s": "LA", "p": [21, 18, 16, 12, 19, 15, 5, 17, 11, 2, 10, 8, 6, 7, 14, 22, 20, 4, 13, 9] },
+	{ "s": "LABORATORIOS", "p": [17] },
+	{ "s": "LAS", "p": [21, 9, 7, 2, 16, 18, 12, 11, 17, 10, 5, 13, 15, 14, 6, 19] },
+	{ "s": "LE", "p": [8, 7, 5] },
+	{ "s": "LEA", "p": [6] },
+	{ "s": "LECTIVO", "p": [5] },
+	{ "s": "LEER", "p": [5] },
+	{ "s": "LIBERTAD", "p": [22] },
+	{ "s": "LIBRE", "p": [4] },
+	{ "s": "LICENCIA", "p": [21, 8, 6, 5] },
+	{ "s": "LICENCIAS", "p": [21, 8] },
+	{ "s": "LICENSE", "p": [5] },
+	{ "s": "LICENSE.TXT", "p": [5] },
+	{ "s": "LIMITADA", "p": [21] },
+	{ "s": "LIMITADO", "p": [21] },
+	{ "s": "LINUX", "p": [4] },
+	{ "s": "LISTA", "p": [20, 18, 15, 16] },
+	{ "s": "LISTADOS", "p": [16] },
+	{ "s": "LISTAS", "p": [9] },
+	{ "s": "LLEVAN", "p": [2] },
+	{ "s": "LO", "p": [17, 8, 2] },
+	{ "s": "LOGÍSTICAS", "p": [18] },
+	{ "s": "LOGÍSTICOS", "p": [18] },
+	{ "s": "LOS", "p": [18, 16, 9, 17, 12, 5, 14, 7, 19, 15, 11, 8, 21, 6, 22, 13, 10, 20] },
+	{ "s": "LUCRO", "p": [21] },
+	{ "s": "LUNES", "p": [20, 19] },
+	{ "s": "LÍNEA", "p": [21, 8, 19] }
+];
